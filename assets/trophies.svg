@@ -53,12 +53,12 @@
     <text x="94" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="500" fill="#E6CCB2">High-Concurrency Go &amp; ML</text>
   </g>
 
-  <!-- Trophy Card 4: Engineering Excellence -->
+  <!-- Trophy Card 4: Algorithmic Problem Solver -->
   <g transform="translate(644, 15)">
     <rect width="188" height="100" rx="8" fill="url(#cardBg)" stroke="#4A3525" stroke-width="1.2" />
     <circle cx="94" cy="38" r="22" fill="#8C532B" fill-opacity="0.2" />
     <path d="M88 44 L94 27 L100 44 L84 34 L104 34 Z" fill="url(#copperTrophy)" />
-    <text x="94" y="70" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">FAANG Grade Quality</text>
-    <text x="94" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="500" fill="#E0A96D">Senior Staff Level</text>
+    <text x="94" y="70" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Problem Solver</text>
+    <text x="94" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="500" fill="#E0A96D">250+ DSA Solved</text>
   </g>
 </svg>

@@ -3,29 +3,29 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=DDB892&center=true&vCenter=true&width=680&lines=High-Performance+Distributed+Systems+%26+Go;Adaptive+Speculative+LLM+Serving+Engines+(Python);Production-Grade+Full+Stack+Platforms+(Next.js%2C+TypeScript);Low-Latency+Inference+%26+KV-Cache+Architectures;Cloud-Native+Microservices+%26+High-Concurrency+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=DDB892&center=true&vCenter=true&width=720&lines=Systems+%26+AI+Infrastructure+Engineer;B.Tech+Computer+Science+at+VIT+(2023+-+2027);Adaptive+Speculative+LLM+Serving+Engines+(Python%2FCUDA);KhorosLog%3A+Distributed+Fault-Tolerant+Commit+Log+(Go%2FRaft);AxiomBox%3A+Kernel-Isolated+Execution+Sandbox+(Win32%2FC%2B%2B);AegisVision%3A+Zero-Copy+Edge+Video+Pipeline+(TensorRT)" alt="Typing SVG" />
 
   <br /><br />
 
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science-7F5539?style=flat-square&logo=academia&logoColor=EDE0D4" alt="Academic Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20%7C%20VIT-7F5539?style=flat-square&logo=academia&logoColor=EDE0D4" alt="Academic Degree" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Focus-Distributed%20Systems%20%26%20AI-9C6644?style=flat-square&logo=codementor&logoColor=EDE0D4" alt="Academic Specialization" />
+    <img src="https://img.shields.io/badge/Focus-Systems%20%26%20AI%20Infrastructure-9C6644?style=flat-square&logo=codementor&logoColor=EDE0D4" alt="Academic Specialization" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Location-India-B08968?style=flat-square&logo=googlemaps&logoColor=EDE0D4" alt="Location" />
+    <img src="https://img.shields.io/badge/Experience-SAIL%20Intern%20'24-B08968?style=flat-square&logo=googlemaps&logoColor=EDE0D4" alt="Experience" />
+  </a>
+  <a href="https://github.com/G1Z2P8I7">
+    <img src="https://img.shields.io/badge/Location-India-7F5539?style=flat-square&logo=googlemaps&logoColor=EDE0D4" alt="Location" />
   </a>
 
   <br /><br />
 
-  <a href="https://github.com/G1Z2P8I7/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Interactive_Site-7F5539?style=for-the-badge&logo=safari&logoColor=EDE0D4" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/g1z2p8i7">
+  <a href="https://www.linkedin.com/in/sumit-gupta-a2bbb1423">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-9C6644?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact.sumit.dev@gmail.com">
+  <a href="mailto:22guptasumit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct_Message-8D6E63?style=for-the-badge&logo=gmail&logoColor=EDE0D4" alt="Email" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
@@ -43,17 +43,18 @@
 
 ### About
 
-Senior Software and AI Systems Engineer focused on building mission-critical distributed architectures, high-throughput machine learning inference engines, and enterprise-grade full-stack platforms. Proven background in architecting end-to-end distributed backends in Go and specialized deep learning infrastructure in Python, alongside responsive, type-safe web ecosystems in TypeScript and Next.js.
+Performance-focused Computer Science undergraduate (B.Tech, VIT) specializing in **High-Performance GPU Inference, Distributed Systems, Edge AI, and Kernel-Level Sandboxing**. Experienced in engineering production systems from first principles—including speculative LLM inference servers, distributed Raft consensus engines, zero-copy video analytics pipelines, and OS-isolated code execution runtimes.
 
-- **Systems & Infrastructure**: Engineering low-latency runtime kernels, lock-free concurrency pipelines, speculative decoding serving engines for LLMs, and high-performance ingestion telemetry brokers.
-- **AI/ML Engineering**: Specializing in memory-constrained LLM acceleration (KV-cache management, dynamic drafting, entropy heuristics), computer vision pipelines, and production predictive modeling.
-- **Full Stack Architecture**: Designing resilient event-driven microservices, strict multi-tenant database schemas with relational audit trails, real-time alerting systems, and accessible UI designs.
-- **Product Mindset**: Translating complex enterprise business logic and high-throughput computational requirements into maintainable, observable, and benchmarked software solutions.
+Proven track record of improving data pipeline throughput by **35%** at **SAIL (Steel Authority of India Ltd.)** with a strong command of low-level memory, systems concurrency, and strict hardware budgets.
+
+- **Systems & OS Internals**: Engineering low-latency runtime kernels, lock-free concurrency pipelines, Windows Kernel Job Object sandboxing, zero-copy memory-mapped I/O (`mmap`), and high-performance Raft commit logs.
+- **AI Systems & GPU Acceleration**: Specializing in memory-constrained LLM acceleration (KV-cache management, dynamic entropy drafting, speculative decoding), TensorRT dynamic batching, and edge computer vision.
+- **Distributed Backends**: Architecting binary framing protocols over raw TCP, Raft election failovers (<150ms), resilient event-driven microservices, and high-throughput telemetry pipelines.
 
 #### Open To
-- Senior / Staff Software Engineering Roles (Distributed Systems, Cloud Infrastructure, Backend)
-- Machine Learning Systems & AI Infrastructure Engineering
-- High-Performance Open Source Collaboration & Technical Architecture Consulting
+- Systems & Software Engineering Roles (Distributed Systems, Low-Latency Backends, Core OS)
+- Machine Learning Systems & GPU AI Infrastructure Engineering
+- High-Impact Open-Source Systems & Research Collaboration
 
 ---
 
@@ -61,235 +62,179 @@ Senior Software and AI Systems Engineer focused on building mission-critical dis
 
 #### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,c,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,go,cpp,c,ts,js,bash&theme=dark" alt="Languages" />
 </p>
 
-#### Frontend
+#### AI Systems & GPU Acceleration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,vite&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI & GPU" />
 </p>
 
-#### Backend & Databases
+#### Backend, Distributed Systems & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,prisma,graphql&theme=dark" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,sqlite,redis,prisma,graphql&theme=dark" alt="Backend and Databases" />
 </p>
 
-#### Cloud, DevOps & Tooling
+#### Frontend & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,linux,nginx,postman&theme=dark" alt="Cloud, DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,html,css&theme=dark" alt="Frontend" />
+</p>
+
+#### DevOps, Systems & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,postman&theme=dark" alt="Cloud, DevOps and Tooling" />
 </p>
 
 ---
 
-### AI / ML Expertise
+### Systems & AI Engineering Matrix
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Technical Focus |
 | :--- | :---: | :--- |
-| **Speculative LLM Serving** | `Expert` | Speculative decoding, dynamic draft-length adaptation, Flash-Rollback KV Cache, VRAM bound optimizations on 8GB consumer hardware |
-| **Deep Learning & Inference** | `Advanced` | PyTorch, ONNX Runtime, Hugging Face Transformers, quantization (AWQ, GPTQ, GGUF), tensor parallel execution |
-| **Computer Vision & Perception** | `Advanced` | Edge video analytics, object detection/segmentation (YOLO, Vision Transformers), real-time visual anomaly inference |
-| **Predictive Analytics & Tabular ML**| `Advanced` | Gradient boosted trees (XGBoost, LightGBM), survival analysis, calibration curves, clinical readmission probability modeling |
-| **AI Systems Engineering** | `Expert` | Concurrency governors, batch scheduling, CUDA memory profiling, asynchronous token streaming, latency percentile optimization |
+| **Speculative LLM Serving** | `Expert` | Dynamic draft-length adaptation (SVIP), $O(1)$ Flash-Rollback KV Cache, VRAM-bound acceleration on 8GB consumer GPUs |
+| **Distributed Systems & Consensus** | `Advanced` | Raft consensus algorithm, Write-Ahead Logs (WAL), zero-copy `mmap` binary indexing, raw TCP framing protocols |
+| **Kernel & Sandboxing** | `Advanced` | Win32 Kernel Job Objects, restricted token sandboxing, memory quotas, process isolation, sub-25ms cold starts |
+| **Edge Vision & Acceleration** | `Advanced` | TensorRT FP16 dynamic batching, multi-stream RTSP decoding (60+ FPS), zero-copy ring buffers, WebRTC sub-80ms streaming |
+| **Data Pipelines & Telemetry** | `Advanced` | High-frequency telemetry extraction, ETL pipeline benchmarking, legacy SQL optimization (35% throughput gain at SAIL) |
 
 ---
 
 ### Featured Projects
 
-<details>
-  <summary><b>01. Speculative-LLM-Serving-Engine</b> — <i>High-Throughput Adaptive Speculative LLM Serving Engine</i></summary>
+<details open>
+  <summary><b>01. Adaptive Speculative LLM Serving Engine</b> — <i>High-Throughput Local LLM Inference Engine</i></summary>
   <br />
 
-High-performance, adaptive speculative decoding inference engine tailored for large language models (such as Llama-3.1-8B) running under tight memory constraints (8GB VRAM consumer GPUs). Features an entropy-guided dynamic drafting algorithm, workload concurrency governor, and an integrated Flash-Rollback KV cache.
+Architected a high-throughput local LLM inference server implementing entropy-guided dynamic draft length (SVIP) to halt speculative drafting early on uncertain tokens, cutting wasted compute by **45%**.
 
 | Dimension | Specification |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, CUDA, Hugging Face Transformers, NumPy |
-| **Scale** | Multi-threaded client concurrency with continuous batching support |
-| **Performance** | Up to 2.4x throughput speedup over standard autoregressive decoding |
-| **Security** | Isolated memory pools, safe tensor validation, runtime budget policing |
-| **Impact** | Democratizes local low-latency 8B model deployment on commodity hardware |
+| **Stack** | Python, PyTorch, CUDA, Llama-3.1-8B, Qwen2.5-0.5B, FastAPI |
+| **Architecture** | Dynamic entropy-guided draft gating + $O(1)$ flash-rollback KV-cache memory manager |
+| **Performance** | **2.5x token generation speedup** over standard autoregressive decoding baselines |
+| **Memory Bound** | Fully contained within an 8GB VRAM envelope without tensor reallocations |
+| **Impact** | Mathematically lossless verification ($\alpha = \min(1, P_{\text{target}}/P_{\text{draft}})$) on consumer hardware |
 | **Repository** | [G1Z2P8I7/Speculative-LLM-serving-engine](https://github.com/G1Z2P8I7/Speculative-LLM-serving-engine) |
 
-Implements dynamic tree-based verification and acceptance-rate feedback loops. Minimizes GPU-CPU serialization bottlenecks by retaining KV state directly on device memory and using speculative rolling masks to prune discarded branches in constant time.
+Retains KV state directly on device memory, eliminating CPU-GPU serialization bottlenecks and pruning discarded candidate branches in constant time.
 </details>
 
 <details>
-  <summary><b>02. Society-Maintenance</b> — <i>Enterprise Apartment Society Management Platform</i></summary>
+  <summary><b>02. KhorosLog: Distributed Fault-Tolerant Commit Log Engine</b> — <i>High-Throughput Raft Event Streaming</i></summary>
   <br />
 
-Full-stack distributed apartment community management platform orchestrating complaint tracking, financial billing cycles, audit logging, role-based access management, notice distributions, and automated event notifications.
+Engineered a distributed write-ahead log (WAL) and event streaming engine from scratch in Go, implementing the **Raft consensus algorithm** with randomized election timers and automated leader failover in **<150ms**.
+
+| Dimension | Specification |
+| :--- | :--- |
+| **Stack** | Go (Golang), Raft Protocol, Win32 mmap, Raw TCP, CRC32 Checksums |
+| **Throughput** | **80,000+ durable writes/sec** bypassing user-space buffer copies |
+| **Storage Engine** | Zero-copy memory-mapped file I/O (`mmap`) with binary sparse indexing |
+| **Wire Protocol** | Custom framing binary protocol over raw TCP (**10x** faster serialization than JSON/HTTP) |
+| **Fault Tolerance** | Strict quorum enforcement, persistent log compaction, snapshot replication |
+| **Repository** | [G1Z2P8I7/khoros-log](https://github.com/G1Z2P8I7/khoros-log) |
+
+Designed to eliminate runtime garbage collection overhead on hot commit paths with pooled byte slices and lock-free ring buffer queues.
+</details>
+
+<details>
+  <summary><b>03. AxiomBox: Kernel-Isolated Remote Code Execution Sandbox</b> — <i>Sub-25ms Secure Runtime Isolation</i></summary>
+  <br />
+
+Engineered a multi-tenant untrusted code execution sandbox achieving **sub-25ms cold-start instantiation**, outperforming traditional Docker container spin-up latencies by **40x**.
+
+| Dimension | Specification |
+| :--- | :--- |
+| **Stack** | Go, C++, Win32 Kernel APIs, Job Objects, Security Tokens, WebSockets |
+| **Cold Start** | **<25ms** container-equivalent instantiation latency |
+| **Isolation** | Windows Kernel Job Objects enforcing strict 64MB RAM and 1 CPU core hardware limits |
+| **Defense** | Neutralizes fork-bombs, thread bombs, and memory-exhaustion exploits |
+| **Telemetry** | Real-time kernel accounting streaming stdout, stderr, and memory usage via WebSockets |
+| **Repository** | [G1Z2P8I7/Axiombox-Engine](https://github.com/G1Z2P8I7/Axiombox-Engine) |
+
+Provides deterministic sandboxing for online judges, untrusted script evaluation, and interactive code playgrounds with instant teardown.
+</details>
+
+<details>
+  <summary><b>04. AegisVision: Real-Time Multi-Stream Edge Vision Pipeline</b> — <i>Zero-Copy Video Analytics</i></summary>
+  <br />
+
+High-throughput computer vision engine processing 6 concurrent 1080p RTSP video feeds at **60+ FPS** without frame drops by eliminating Python GIL bottlenecks via Win32 Shared Memory (`mmap`) zero-copy ring buffers.
+
+| Dimension | Specification |
+| :--- | :--- |
+| **Stack** | C++, Python, TensorRT, OpenCV, WebRTC (`aiortc`), Win32 IPC |
+| **Inference** | NVIDIA TensorRT FP16 dynamic batching on an RTX 4060 GPU |
+| **Tracking** | ByteTrack spatial geofencing for real-time industrial safety zone intrusion detection |
+| **Latency** | Hardware-accelerated WebRTC streaming delivering **sub-80ms** glass-to-glass latency |
+| **Architecture** | Decoupled C++ frame grabber + asynchronous Python inference workers over shared memory |
+| **Repository** | [G1Z2P8I7/AegisVision](https://github.com/G1Z2P8I7/AegisVision) |
+
+Eliminates video decoding bottlenecks and provides ultra-low latency spatial telemetry for critical physical security perimeters.
+</details>
+
+<details>
+  <summary><b>05. Society-Maintenance</b> — <i>Enterprise Apartment Management Platform</i></summary>
+  <br />
+
+Full-stack distributed apartment community management platform orchestrating complaint tracking, financial billing cycles, audit logging, role-based access management, and automated notifications.
 
 | Dimension | Specification |
 | :--- | :--- |
 | **Stack** | TypeScript, Next.js, React, Prisma ORM, PostgreSQL, Tailwind CSS, Nodemailer |
-| **Scale** | Multi-tenant complex support handling thousands of residential units |
+| **Features** | Multi-tenant unit administration, financial ledger reconciliations, RBAC permissions |
 | **Performance** | Server-side rendered interfaces with sub-100ms API response latency |
-| **Security** | Role-Based Access Control (RBAC), CSRF protection, immutable audit log ledger |
-| **Impact** | Fully automates society billing reconciliations and grievance escalation |
+| **Reliability** | Immutable audit trails, automated billing cron pipelines, and grievance escalation |
 | **Repository** | [G1Z2P8I7/Society-Maintenance](https://github.com/G1Z2P8I7/Society-Maintenance) |
-
-Constructed with strict schema boundaries and relational integrity. Incorporates asynchronous worker pipelines for overdue notices and ledger updates, alongside an auditable grievance workflow from initial submission through verification to resolution.
-</details>
-
-<details>
-  <summary><b>03. Axiombox-Engine</b> — <i>High-Concurrency Core Runtime & Systems Engine</i></summary>
-  <br />
-
-Low-level high-throughput computing engine designed for concurrent task execution, thread pool multiplexing, and robust resource isolation.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Go, Concurrency Primitives, Goroutine Pools, System Calls, Linux |
-| **Scale** | 100K+ concurrent job dispatches with zero channel deadlock guarantees |
-| **Performance** | Sub-millisecond queue arbitration latency and bounded heap allocation |
-| **Security** | Memory sandbox enforcement, isolated process workers, fault recovery |
-| **Impact** | Serves as the backbone computational substrate for heavy background workloads |
-| **Repository** | [G1Z2P8I7/Axiombox-Engine](https://github.com/G1Z2P8I7/Axiombox-Engine) |
-
-Engineered with Go’s lock-free ring buffers, sync pools, and low-latency scheduling patterns. Handles intense burst workloads while preventing out-of-memory cascades via backpressure signal propagation.
-</details>
-
-<details>
-  <summary><b>04. Aegis-log</b> — <i>Ultra-Fast Structured Logging & Telemetry Engine</i></summary>
-  <br />
-
-High-performance, zero-allocation structured logging library and log shipper in Go, built for distributed systems requiring high telemetry throughput with minimal CPU overhead.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Go, Low-Level I/O, Buffer Pools, JSON Streaming Encoder |
-| **Scale** | Millions of structured log events per second across distributed nodes |
-| **Performance** | Zero memory allocation on hot paths; sub-microsecond write cycles |
-| **Security** | Automatic PII masking, cryptographic checksum sealing, log rotation |
-| **Impact** | Drastically slashes telemetry compute overhead in microservice clusters |
-| **Repository** | [G1Z2P8I7/Aegis-log](https://github.com/G1Z2P8I7/Aegis-log) |
-
-Designed to eliminate runtime garbage collection pressure during heavy logging spikes. Implements byte-slice pooling, non-blocking asynchronous disk flushes, and native compliance with modern observability collectors.
-</details>
-
-<details>
-  <summary><b>05. AegisVision</b> — <i>Edge-Optimized Real-Time Computer Vision Pipeline</i></summary>
-  <br />
-
-Computer vision perception architecture delivering low-latency object detection, tracking, and spatial inference for edge deployments and stream monitoring.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, OpenCV, PyTorch, CUDA, TensorRT |
-| **Scale** | Multi-stream RTSP feed processing at real-time frame rates |
-| **Performance** | 60+ FPS inference on edge accelerators with batch pipelining |
-| **Security** | Encrypted video transport pipelines and on-device metadata tagging |
-| **Impact** | Enables automated perimeter security and situational awareness at scale |
-| **Repository** | [G1Z2P8I7/AegisVision](https://github.com/G1Z2P8I7/AegisVision) |
-
-Integrates hardware-accelerated video decoding with optimized convolutional and transformer backbones, featuring multi-object tracking and dynamic region-of-interest extraction.
-</details>
-
-<details>
-  <summary><b>06. ReadmitIQ-30-Day-Readmission-Risk</b> — <i>Clinical ML Risk Stratification Engine</i></summary>
-  <br />
-
-Machine learning clinical risk prediction system that forecasts 30-day patient readmission likelihood from high-dimensional electronic health record datasets.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, Scikit-learn, XGBoost, Pandas, NumPy, SHAP |
-| **Scale** | Evaluated on 100K+ patient encounter records with high clinical fidelity |
-| **Performance** | High AUROC with calibrated Brier score across heterogeneous cohorts |
-| **Security** | De-identified data transformations adhering to HIPAA safety protocols |
-| **Impact** | Facilitates proactive medical intervention and cost reduction for hospitals |
-| **Repository** | [G1Z2P8I7/ReadmitIQ-30-Day-Readmission-Risk](https://github.com/G1Z2P8I7/ReadmitIQ-30-Day-Readmission-Risk) |
-
-Incorporates rigorous feature engineering, imputation of missing diagnostic values, class imbalance remediation, and SHAP explainability matrices for clinical interpretability.
-</details>
-
-<details>
-  <summary><b>07. Portfolio</b> — <i>Modern Interactive Developer Showcase</i></summary>
-  <br />
-
-Personal digital presence showcasing technical architecture, deep-dive system implementations, interactive benchmarks, and contact integrations.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | TypeScript, React, Next.js, Tailwind CSS, Framer Motion |
-| **Scale** | Global edge delivery via CDN with instantaneous navigation |
-| **Performance** | 100/100 Google Lighthouse score across Performance, SEO, and Accessibility |
-| **Security** | Strict Content Security Policy (CSP), sanitized outputs, TLS termination |
-| **Impact** | Serves as the central recruitment and professional collaboration nexus |
-| **Repository** | [G1Z2P8I7/Portfolio](https://github.com/G1Z2P8I7/Portfolio) |
-
-Crafted with modern fluid typography, accessibility-compliant contrast ratios, smooth physics-based interactions, and optimized vector assets.
 </details>
 
 ---
 
-### Experience
+### Work Experience
 
-#### Senior Software & Machine Learning Engineer | Enterprise Solutions
+#### Software Engineering / Data Science Intern | SAIL (Steel Authority of India Ltd.)
+*Bokaro Steel City, Jharkhand, India | June 2024 – August 2024*
+
+- Architected and benchmarked optimized Python data extraction pipelines to process high-frequency industrial operational telemetry, boosting end-to-end data processing throughput by **35%**.
+- Automated data integrity validation workflows across cross-departmental internal datasets, cutting manual engineering auditing overhead by **40%**.
+- Collaborated with senior engineering teams to refactor legacy SQL queries and data models, eliminating database ingestion bottlenecks across heavy operational logs.
+
+`#Python` `#SQL` `#DataPipelines` `#Telemetry` `#DatabaseOptimization` `#ETL` `#Automation`
+
+#### Open-Source Systems Engineer & Maintainer | Independent
 *2023 – Present*
 
-Architect and lead the core engineering for distributed cloud services and low-latency AI inference platforms. Oversee technical direction, microservice boundaries, and GPU infrastructure optimization.
+- Architected **Adaptive Speculative LLM Serving Engine**, achieving a **2.5x speedup** on local consumer GPUs via entropy-guided drafting and $O(1)$ flash KV-cache rollback.
+- Designed and built **KhorosLog**, a zero-copy distributed Raft commit log engine in Go processing **80,000+ durable writes/sec**.
+- Engineered **AxiomBox**, a lightweight code execution sandbox achieving **sub-25ms instantiation** via Windows Kernel Job Objects.
 
-- Designed and shipped a high-throughput speculative LLM serving pipeline, driving down latency by over 50% on resource-constrained compute clusters.
-- Engineered high-concurrency Go microservices processing millions of transactional events per day with 99.99% uptime.
-- Standardized full-stack development best practices across TypeScript and Next.js projects, implementing automated CI/CD testing and immutable audit logs.
-- Spearheaded telemetry standardization with custom zero-allocation logging utilities, reducing observability cloud expenses.
-
-`#Go` `#Python` `#TypeScript` `#DistributedSystems` `#PyTorch` `#NextJS` `#PostgreSQL` `#Docker`
-
-#### Software Development Engineer | Systems & Platforms
-*2021 – 2023*
-
-Engineered scalable web applications, RESTful microservices, and automated data processing pipelines across diverse operational domains.
-
-- Developed full-stack SaaS administrative suites supporting automated billing, scheduling, and multi-tenant security barriers.
-- Integrated predictive machine learning models into clinical and operational workflows, optimizing feature stores and inference runtimes.
-- Built containerized staging and production pipelines with Docker and GitHub Actions, reducing deployment cycle times by 40%.
-
-`#Python` `#React` `#NodeJS` `#SQL` `#FastAPI` `#Redis` `#Linux` `#CI-CD`
+`#Go` `#Python` `#C++` `#CUDA` `#Raft` `#Win32` `#SystemsProgramming`
 
 ---
 
-### Achievements
+### Education
+
+#### Vellore Institute of Technology (VIT)
+*Vellore, Tamil Nadu, India | 2023 – Expected 2027*  
+**Bachelor of Technology (B.Tech) in Computer Science & Engineering** | **CGPA: 7.81 / 10**
+
+- **Core Coursework**: Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming, Theory of Computation, Computer Architecture.
+- **Focus**: High-Performance Systems, Low-Latency Networking, GPU Acceleration & LLM Inference, Distributed Consensus.
+
+---
+
+### Leadership & Achievements
 
 <div align="center">
 
-| Recognition | Details |
+| Area | Achievement |
 | :--- | :--- |
-| **Top Percentile Open-Source Contributor** | Architected and published low-latency inference tools and Go concurrency runtimes utilized across developer communities |
-| **Engineering Excellence Award** | Commended for architecting fault-tolerant microservices and sub-millisecond telemetry infrastructure |
-| **Hackathon Grand Winner** | Built an autonomous edge-AI computer vision inspection platform within a 36-hour sprint |
-| **Research & Technical Author** | Published comprehensive technical deep-dives on speculative decoding mechanics and KV-cache optimization |
+| **Algorithmic Problem Solving** | Solved **250+ data structures and algorithm challenges** across LeetCode and CodeChef, focusing on graphs, dynamic programming, and systems concurrency. |
+| **Industrial Impact (SAIL)** | Architected telemetry extraction pipelines yielding a **35% increase in throughput** and cutting manual auditing by **40%**. |
+| **Open-Source Systems** | Built and published high-performance implementations of speculative decoding runtimes and distributed Raft consensus engines. |
+| **Campus Leadership (VIT)** | Active Member of the **Event Management Club (VIT)**; coordinated logistics and technical staging for major campus events with **500+ attendees**. |
 
 </div>
-
----
-
-### Certifications
-
-#### Amazon Web Services
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Solutions Architect" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Developer" />
-</p>
-
-#### Oracle
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Architect" />
-</p>
-
-#### NPTEL
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Elite%20Gold%20%7C%20Data%20Structures%20%26%20Algorithms-1E3A8A?style=for-the-badge&logo=coursera&logoColor=white" alt="NPTEL DSA" />
-  <img src="https://img.shields.io/badge/NPTEL-Elite%20%7C%20Cloud%20Computing%20%26%20Distributed%20Systems-1E3A8A?style=for-the-badge&logo=coursera&logoColor=white" alt="NPTEL Cloud" />
-</p>
-
-#### Cisco
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Operations-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps" />
-</p>
 
 ---
 
@@ -297,19 +242,15 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 
 <div align="center">
   <a href="https://leetcode.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/LeetCode-Top_Ranked_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Master_Contributor-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
-  </a>
-  <br /><br />
-  <a href="https://www.hackerrank.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/HackerRank-5_Star_Gold_Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-250%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/G1Z2P8I7">
     <img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/G1Z2P8I7">
+    <img src="https://img.shields.io/badge/GitHub-Systems_Repositories-4A3525?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
 
@@ -356,29 +297,31 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 
 ```yaml
 engineer:
-  name: "Sumit"
+  name: "Sumit Gupta"
   handle: "G1Z2P8I7"
-  role: "Senior Software & AI Infrastructure Engineer"
+  role: "Systems & AI Infrastructure Engineer"
+  education: "B.Tech in Computer Science & Engineering, VIT (2023 - 2027)"
+  location: "Bokaro Steel City / Vellore, India"
   
 learning:
   - "Custom CUDA Kernels for Attention Verification & KV Cache Paging"
   - "eBPF Tracing for Low-Latency Linux Socket Monitoring"
-  - "Distributed Consensus Protocols in Go (Raft, Paxos Variants)"
+  - "Distributed Consensus Protocols in Go (Raft, Multi-Paxos Variants)"
 
 building:
-  - "Entropy-Guided Speculative Decoding Serving Engine for Llama-3.1-8B"
-  - "Zero-Allocation Distributed Log Ingestion Pipelines in Go"
-  - "Autonomous Telemetry Aggregators with Next.js & PostgreSQL"
+  - "Adaptive Speculative LLM Serving Engine with Dynamic SVIP Drafting"
+  - "KhorosLog: Zero-Copy Distributed Commit Log Engine in Go"
+  - "AxiomBox: Kernel-Isolated Remote Code Execution Sandbox"
 
 exploring:
   - "Hardware-Accelerated KV-Cache Compaction Strategies"
-  - "High-Concurrency Lock-Free Queue Structures for Event Brokering"
-  - "Multi-Modal Sensor Integration for Real-Time Edge Computer Vision"
+  - "Zero-Copy Memory-Mapped IPC for Multi-Stream Edge Vision"
+  - "Kernel Resource Quotas and Containerization Internals"
 
 open_to:
-  - "Staff & Senior Software Engineering Opportunities"
-  - "AI Infrastructure & Distributed Systems Consulting"
-  - "High-Impact Core Open Source Projects"
+  - "Systems & Software Engineering Roles / Internships"
+  - "AI Infrastructure & GPU Systems Engineering"
+  - "Core Open Source Systems Collaborations"
 ```
 
 ---
@@ -386,20 +329,16 @@ open_to:
 ### Connect
 
 <div align="center">
-  <a href="mailto:contact.sumit.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-contact.sumit.dev%40gmail.com-8D6E63?style=for-the-badge&logo=gmail&logoColor=EDE0D4" alt="Gmail" />
+  <a href="mailto:22guptasumit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-22guptasumit%40gmail.com-8D6E63?style=for-the-badge&logo=gmail&logoColor=EDE0D4" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/g1z2p8i7">
-    <img src="https://img.shields.io/badge/LinkedIn-Sumit-7F5539?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sumit-gupta-a2bbb1423">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumit_Gupta-7F5539?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/G1Z2P8I7">
     <img src="https://img.shields.io/badge/GitHub-G1Z2P8I7-4A3525?style=for-the-badge&logo=github&logoColor=EDE0D4" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/G1Z2P8I7/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-9C6644?style=for-the-badge&logo=safari&logoColor=EDE0D4" alt="Portfolio" />
   </a>
 </div>
 
