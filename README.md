@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b1055,4f46e5,7c3aed,9333ea&height=220&section=header&text=Sumit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Infrastructure%20%26%20Distributed%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/main/assets/header.svg" width="100%" alt="Header Banner" />
 
   <br />
 
@@ -331,7 +331,7 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G1Z2P8I7&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="98%" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/main/assets/trophies.svg" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -339,7 +339,7 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G1Z2P8I7&theme=react-dark&bg_color=0D1117&color=A855F7&line=6366F1&point=7C3AED&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/main/assets/activity.svg" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -347,11 +347,7 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 ### Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="98%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/main/assets/snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </div>
 
 ---
@@ -412,9 +408,5 @@ open_to:
 ### Footer
 
 <div align="center">
-  <em>"Simplicity is prerequisite for reliability; precision is prerequisite for performance."</em>
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b1055,4f46e5,7c3aed,9333ea&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/G1Z2P8I7/G1Z2P8I7/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
