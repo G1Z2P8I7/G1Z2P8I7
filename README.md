@@ -3,40 +3,40 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=High-Performance+Distributed+Systems+%26+Go;Adaptive+Speculative+LLM+Serving+Engines+(Python);Production-Grade+Full+Stack+Platforms+(Next.js%2C+TypeScript);Low-Latency+Inference+%26+KV-Cache+Architectures;Cloud-Native+Microservices+%26+High-Concurrency+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=DDB892&center=true&vCenter=true&width=680&lines=High-Performance+Distributed+Systems+%26+Go;Adaptive+Speculative+LLM+Serving+Engines+(Python);Production-Grade+Full+Stack+Platforms+(Next.js%2C+TypeScript);Low-Latency+Inference+%26+KV-Cache+Architectures;Cloud-Native+Microservices+%26+High-Concurrency+Backends" alt="Typing SVG" />
 
   <br /><br />
 
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science-7928CA?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science-7F5539?style=flat-square&logo=academia&logoColor=EDE0D4" alt="Academic Degree" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Focus-Distributed%20Systems%20%26%20AI-4F46E5?style=flat-square&logo=codementor&logoColor=white" alt="Academic Specialization" />
+    <img src="https://img.shields.io/badge/Focus-Distributed%20Systems%20%26%20AI-9C6644?style=flat-square&logo=codementor&logoColor=EDE0D4" alt="Academic Specialization" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/Location-India-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-India-B08968?style=flat-square&logo=googlemaps&logoColor=EDE0D4" alt="Location" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/G1Z2P8I7/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Interactive_Site-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Interactive_Site-7F5539?style=for-the-badge&logo=safari&logoColor=EDE0D4" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/g1z2p8i7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-9C6644?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
   </a>
   <a href="mailto:contact.sumit.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Message-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Direct_Message-8D6E63?style=for-the-badge&logo=gmail&logoColor=EDE0D4" alt="Email" />
   </a>
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-4A3525?style=for-the-badge&logo=github&logoColor=EDE0D4" alt="GitHub" />
   </a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=G1Z2P8I7&style=flat-square&color=7928CA&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/G1Z2P8I7?style=flat-square&logo=github&color=4F46E5&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/G1Z2P8I7?style=flat-square&logo=github&color=6366F1&label=Total+Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=G1Z2P8I7&style=flat-square&color=7F5539&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/G1Z2P8I7?style=flat-square&logo=github&color=9C6644&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/G1Z2P8I7?style=flat-square&logo=github&color=B08968&label=Total+Stars" alt="Stars" />
 </div>
 
 ---
@@ -318,12 +318,12 @@ Engineered scalable web applications, RESTful microservices, and automated data 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1Z2P8I7&show_icons=true&theme=radical&title_color=A855F7&text_color=E2E8F0&icon_color=818CF8&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1Z2P8I7&theme=radical&background=0D1117&border=30363D&stroke=30363D&ring=7C3AED&fire=A855F7&currStreakLabel=6366F1" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G1Z2P8I7&show_icons=true&title_color=DDB892&text_color=EDE0D4&icon_color=C87D55&bg_color=140F0D&border_color=3E2E25&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1Z2P8I7&background=140F0D&border=3E2E25&stroke=3E2E25&ring=B08968&fire=DDB892&currStreakLabel=EDE0D4&sideLabels=A1887F&dates=A1887F" width="48%" alt="GitHub Streak Stats" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1Z2P8I7&layout=compact&theme=radical&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&langs_count=8" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1Z2P8I7&layout=compact&title_color=DDB892&text_color=EDE0D4&bg_color=140F0D&border_color=3E2E25&langs_count=8" width="55%" alt="Top Languages" />
 </div>
 
 ---
@@ -387,19 +387,19 @@ open_to:
 
 <div align="center">
   <a href="mailto:contact.sumit.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-contact.sumit.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-contact.sumit.dev%40gmail.com-8D6E63?style=for-the-badge&logo=gmail&logoColor=EDE0D4" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/g1z2p8i7">
-    <img src="https://img.shields.io/badge/LinkedIn-Sumit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sumit-7F5539?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/G1Z2P8I7">
-    <img src="https://img.shields.io/badge/GitHub-G1Z2P8I7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-G1Z2P8I7-4A3525?style=for-the-badge&logo=github&logoColor=EDE0D4" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://github.com/G1Z2P8I7/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-9C6644?style=for-the-badge&logo=safari&logoColor=EDE0D4" alt="Portfolio" />
   </a>
 </div>
 

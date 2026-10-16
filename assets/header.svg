@@ -1,57 +1,75 @@
 <svg fill="none" viewBox="0 0 854 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Background Gradient: Deep Mocha to Espresso -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B091A" />
-      <stop offset="50%" stop-color="#150D2A" />
-      <stop offset="100%" stop-color="#0F0C20" />
+      <stop offset="0%" stop-color="#140F0D" />
+      <stop offset="45%" stop-color="#1C1613" />
+      <stop offset="100%" stop-color="#181210" />
     </linearGradient>
+
+    <!-- Warm Amber Brown & Caramel Waves -->
     <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.7" />
-      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.85" />
-      <stop offset="100%" stop-color="#9333EA" stop-opacity="0.7" />
+      <stop offset="0%" stop-color="#7F5539" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#9C6644" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#B08968" stop-opacity="0.85" />
     </linearGradient>
+
     <linearGradient id="wave2" x1="100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.4" />
-      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.4" />
+      <stop offset="0%" stop-color="#4A3525" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#6F4E37" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#8D6E63" stop-opacity="0.5" />
     </linearGradient>
+
+    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9C6644" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#B08968" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#DDB892" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Elegant Ivory & Warm Cream Text Gradient -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="40%" stop-color="#F3E8FF" />
-      <stop offset="100%" stop-color="#D8B4FE" />
+      <stop offset="45%" stop-color="#FAF0E6" />
+      <stop offset="100%" stop-color="#EDE0D4" />
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="30%" r="50%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35" />
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+
+    <!-- Warm Amber Glow -->
+    <radialGradient id="glow" cx="50%" cy="32%" r="52%">
+      <stop offset="0%" stop-color="#9C6644" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#9C6644" stop-opacity="0" />
     </radialGradient>
+
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#7C3AED" flood-opacity="0.3" />
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#7F5539" flood-opacity="0.35" />
     </filter>
   </defs>
 
-  <rect width="854" height="220" rx="16" fill="url(#bgGrad)" />
+  <rect width="854" height="220" rx="16" fill="url(#bgGrad)" stroke="#3E2E25" stroke-width="1.2" />
   <rect width="854" height="220" rx="16" fill="url(#glow)" />
 
   <!-- Background decorative wave -->
   <path d="M0,165 C180,130 320,205 520,165 C680,135 760,185 854,160 L854,220 L0,220 Z" fill="url(#wave2)" />
   
-  <!-- Foreground vibrant wave -->
-  <path d="M0,180 C150,150 300,210 460,178 C620,146 730,195 854,175 L854,220 L0,220 Z" fill="url(#wave1)" />
+  <!-- Mid ground caramel wave -->
+  <path d="M0,178 C150,148 300,208 460,176 C620,144 730,193 854,173 L854,220 L0,220 Z" fill="url(#wave1)" />
 
-  <!-- Subtle grid dots pattern -->
-  <g opacity="0.12" fill="#E2E8F0">
+  <!-- Front subtle beige wave crest -->
+  <path d="M0,195 C140,175 280,215 440,190 C600,165 720,205 854,188 L854,220 L0,220 Z" fill="url(#waveFront)" opacity="0.4" />
+
+  <!-- Subtle warm beige grid dots -->
+  <g opacity="0.15" fill="#DDB892">
     <circle cx="60" cy="40" r="1.5" /><circle cx="100" cy="40" r="1.5" /><circle cx="140" cy="40" r="1.5" />
     <circle cx="60" cy="70" r="1.5" /><circle cx="100" cy="70" r="1.5" /><circle cx="140" cy="70" r="1.5" />
     <circle cx="714" cy="40" r="1.5" /><circle cx="754" cy="40" r="1.5" /><circle cx="794" cy="40" r="1.5" />
     <circle cx="714" cy="70" r="1.5" /><circle cx="754" cy="70" r="1.5" /><circle cx="794" cy="70" r="1.5" />
   </g>
 
-  <!-- Title & Subtitle -->
+  <!-- Title & Subtitle in Warm Beige & Ivory -->
   <g text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
     <text x="427" y="86" fill="url(#textGrad)" font-size="52" font-weight="800" letter-spacing="3" filter="url(#shadow)">Sumit</text>
-    <text x="427" y="124" fill="#C4B5FD" font-size="16" font-weight="500" letter-spacing="1.2">Senior Software Engineer | AI Infrastructure &amp; Distributed Systems</text>
+    <text x="427" y="124" fill="#E6CCB2" font-size="16" font-weight="500" letter-spacing="1.2">Senior Software Engineer | AI Infrastructure &amp; Distributed Systems</text>
   </g>
 
-  <!-- Accent glow line -->
-  <rect x="367" y="140" width="120" height="2" rx="1" fill="url(#wave1)" />
+  <!-- Accent bar in warm bronze/beige -->
+  <rect x="367" y="140" width="120" height="2.5" rx="1.2" fill="url(#waveFront)" />
 </svg>
